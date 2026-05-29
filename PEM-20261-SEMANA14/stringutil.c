@@ -1,8 +1,9 @@
-/*
- * stringutil.c — Implementação da biblioteca de strings
- * Compilar junto com main.c: gcc main.c stringutil.c -o prog
+/*-Nome: Anthonio Neriah Pereira Ramos - RA:2040482522025
+-Fatec Ipiranga - Ads Vespertino
+-Atividade PEM - Aula 14 - Dia 28/05/2026
+ * Programacao Estruturada e Modular
+ * Semana 14 — 2026/1
  */
-
 #include <string.h>   /* strlen — única função de string.h permitida */
 #include "stringutil.h"
 

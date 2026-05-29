@@ -1,6 +1,8 @@
-/*
- * stringutil.h — Protótipos da biblioteca de operações com strings
- * Proibido usar funções de string.h exceto strlen.
+/*-Nome: Anthonio Neriah Pereira Ramos - RA:2040482522025
+-Fatec Ipiranga - Ads Vespertino
+-Atividade PEM - Aula 14 - Dia 28/05/2026
+ * Programacao Estruturada e Modular
+ * Semana 14 — 2026/1
  */
 
 #ifndef STRINGUTIL_H
